@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_ai_dumb.xml" value="0.22950819672131148" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_ai_smart.xml" value="0.17481884057971014" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_highscores.xml" value="0.16" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_multi_player.xml" value="0.30625" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_multi_player_easy.xml" value="0.30625" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_multi_player_hard.xml" value="0.30625" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_multiplayerlevels.xml" value="0.75" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_single_player_hard.xml" value="0.67" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_singleplayerlevels.xml" value="0.25" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_smart_ai.xml" value="0.17481884057971014" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_splashscreen.xml" value="0.1671195652173913" />
+        <entry key="..\:/AppProject/AppProject2021/Zerokata/app/src/main/res/layout/activity_start_page.xml" value="0.1671195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
